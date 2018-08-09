@@ -39,7 +39,7 @@ This pattern relies on thematic relation
 1. If the pattern look like `c(,) a`, it means that `c(,) a` is just a meaningless word or a meaningless phrase.
 
 note:
-- (,) means marked cases are optional depending on either the aspect (irregular verbs)
+- `(,)` means marked cases are optional depending on either the aspect (irregular verbs)
 - everything seems transitive (I pooped (at) toilet bowl, I digest food)
 - aspect acting as verbs are always the precedent
 - anything after the verb are optional to exist
