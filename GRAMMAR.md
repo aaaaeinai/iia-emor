@@ -29,14 +29,8 @@ This pattern pertains to its availability of the context or suffice the contexts
 This pattern respect the order of the context to define the meaning.
 This pattern relies on thematic relation
 
-1. If the pattern look like `a`, it means that `a` is just a meaningless word or a meaningless phrase.
-1. If the pattern look like `b`, it means that `b` is just a meaningless word or a meaningless phrase.
-1. If the pattern look like `c`, it means that `c` is just a meaningless word or a meaningless phrase.
-1. If the pattern look like `d`, it means that `d` is just a meaningless word or a meaningless phrase.
 1. If the pattern look like `a, b`, it means that `a` is the main aspect as the verb and `b` is the agent and is equally same as `x`.
-1. If the pattern look like `b(,) a`, it means that `b(,) a` is just a meaningless word or a meaningless phrase.
 1. If the pattern look like `a(,) c`, it means that `a` is the main aspect as the verb and `c` is the patient.
-1. If the pattern look like `c(,) a`, it means that `c(,) a` is just a meaningless word or a meaningless phrase.
 
 note:
 - `(,)` means marked cases are optional depending on either the aspect (irregular verbs)
