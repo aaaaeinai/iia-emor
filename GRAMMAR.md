@@ -13,11 +13,11 @@ Legend:
 This pattern refers to the origin, agent, or cause in the sentence.
 This pattern prioritize or look the reference first to distinguish two context in the sentence
 
-1. If the pattern look like `x`, it means that `x` is the agent(genitive) given that the `x` contains `-g-` between the first syllable?(so to speak) and the next.
+1. If the pattern look like `x`, it means that `x` is the agent given that the `x` contains `-g-` between the first syllable?(so to speak) and the next.
 1. If the pattern look like `y`, it means that `y` is the main verb.
 1. If the pattern look like `x`, it means that `x` is an interjection.
-1. If the pattern look like `x, y`, it means that `x` is the agent(genitive) and `y` is the main verb given that the `x` contains `-g-` between the first syllable and the next.
-1. If the pattern look like `y x`, it means that `x` is the agent(genitive) and `y` is the main verb with-out any condition (unmarked).
+1. If the pattern look like `x, y`, it means that `x` is the agent and `y` is the main verb given that the `x` contains `-g-` between the first syllable and the next.
+1. If the pattern look like `y x`, it means that `x` is the agent and `y` is the main verb with-out any condition (unmarked).
 1. If the pattern look like `x, y`, it means that `x` is the agent(genitive) and `y` is its property given that the `x` contains `-g-` between the first syllable and the next.
 
 ## Mostly Philippine-type
