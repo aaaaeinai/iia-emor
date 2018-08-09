@@ -29,7 +29,7 @@ This pattern pertains to its availability of the context or suffice the contexts
 This pattern respect the order of the context to define the meaning.
 This pattern relies on thematic relation
 
-1. If the pattern look like `a(,) b`, it means that `a` is the main aspect as the verb and `b` is the agent and is equally same as `x`.
+1. If the pattern look like `a(,) b`, it means that `a` is the main aspect as the verb and `b` is the agent and is most same as `x`.
 1. If the pattern look like `a(,) c`, it means that `a` is the main aspect as the verb and `c` is the patient.
 
 note:
