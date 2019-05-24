@@ -1,8 +1,19 @@
 # Grammar
 
-Legend:
+```
+    a {b c d}
+```
+
+Note:
 - Every character is a context
 - Every header2 is an alignment
+- `a` main verb
+- `b` agent
+- `c` patient
+- `d` benefactee/ locative
+- Every character is ordered by default
+- Any in between `{` `}` is unordered
+- subject is denoted underscore
 
 ## Ergative like?
 
